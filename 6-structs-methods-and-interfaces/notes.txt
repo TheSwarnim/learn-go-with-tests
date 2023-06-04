@@ -1,0 +1,8 @@
+The following sequence of steps is generally followed:
+
+Add a test – Write a test case that describe the function completely. In order to make the test cases the developer must understand the features and requirements using user stories and use cases.
+Run all the test cases and make sure that the new test case fails.
+Write the code that passes the test case
+Run the test cases
+Refactor code – This is done to remove duplication of code.
+Repeat the above mentioned steps again and again
