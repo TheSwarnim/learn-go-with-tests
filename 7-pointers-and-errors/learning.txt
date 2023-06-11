@@ -1,0 +1,7 @@
+learned about new command errorcheck
+
+1. go install github.com/kisielk/errcheck@latest
+2. run `errorcheck .` in the project root
+3. fix all the errors
+4. errcheck basically checks for all the errors that are not handled in the code, which 
+    sometimes go compiler doesn't catch
